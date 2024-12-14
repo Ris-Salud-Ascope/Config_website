@@ -3,4 +3,7 @@ Enalces de Revisar
 
 Esquemas    https://schema.org/docs/schemas.html
 Metatags    https://developers.facebook.com/docs/sharing/webmasters/ (Ejemplo)
-Etiquetas   https://developer.mozilla.org/en-US/docs/Web 
+Etiquetas   https://developer.mozilla.org/en-US/docs/Web
+Aria        https://developer.mozilla.org/es/docs/Web/Accessibility/ARIA
+Wireframe   https://www.archimetric.com/what-is-wireframe/
+Images      https://web.dev/articles/browser-level-image-lazy-loading

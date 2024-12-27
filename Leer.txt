@@ -7,3 +7,4 @@ Etiquetas   https://developer.mozilla.org/en-US/docs/Web
 Aria        https://developer.mozilla.org/es/docs/Web/Accessibility/ARIA
 Wireframe   https://www.archimetric.com/what-is-wireframe/
 Images      https://web.dev/articles/browser-level-image-lazy-loading
+Images2     https://betterplaceholder.com/
